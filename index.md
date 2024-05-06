@@ -1,1 +1,1 @@
-<h1> Greate Course for Reebal <h1>
+<h1> Great Course for Reebal <h1>
